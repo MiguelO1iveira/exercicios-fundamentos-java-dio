@@ -36,7 +36,7 @@ public class Ex4 {
 				dif = idade2 - idade1;
 				message = name2 + " é " + dif + " ano(s) mais velho que " + name1;
 			} else {
-				message = "Não foi possível calcular, porque as idades são iguais!";
+				message = "Os dois possuem a mesma idade!";
 			}
 			
 			// Resultado Final
