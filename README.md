@@ -23,10 +23,6 @@ fórmula: área=base X altura
 
 ### Passos
 No Terminal:  
-java -cp src Ex1   
-java -cp src Ex2  
-java -cp src Ex3  
-java -cp src Ex4  
 
 ```bash
 git clone https://github.com/MiguelO1iveira/exercicios-fundamentos-java-dio.git
