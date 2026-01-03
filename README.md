@@ -33,6 +33,7 @@ git clone https://github.com/MiguelO1iveira/exercicios-fundamentos-java-dio.git
 ```
 ```bash
 cd exercicios-fundamentos-java-dio
+```
 ```bash
 javac src/Ex1.java
 ```
