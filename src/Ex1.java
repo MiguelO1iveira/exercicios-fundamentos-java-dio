@@ -10,6 +10,10 @@ public class Ex1 {
 			String name;
 			int year, age;
 			
+			
+			System.out.println("\nSeja bem-vindo!\nExercício 1\n");
+			
+			// Entrada de dados
 			System.out.println("Informe o seu nome: ");
 			System.out.print(">>> ");
 			name = scanner.nextLine();
@@ -18,12 +22,12 @@ public class Ex1 {
 			System.out.print(">>> ");
 			year = Integer.parseInt(scanner.nextLine());
 			
+			// Cálculo
 			age = baseYear - year;
 			
+			// Resultado
 			System.out.printf("Olá, %s, você tem %s anos!\n", name, age);
-			
-			
-			
+				
 			
 		} // Fecha o try
 
