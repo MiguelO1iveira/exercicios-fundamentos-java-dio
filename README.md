@@ -23,7 +23,6 @@ fórmula: área=base X altura
 
 ### Passos
 No Terminal:  
-Coloque o nome da classe do exercício para executar na última linha  
 java -cp src Ex1   
 java -cp src Ex2  
 java -cp src Ex3  
@@ -31,10 +30,26 @@ java -cp src Ex4
 
 ```bash
 git clone https://github.com/MiguelO1iveira/exercicios-fundamentos-java-dio.git
+```
+```bash
 cd exercicios-fundamentos-java-dio
+```bash
 javac src/Ex1.java
+```
+```bash
 javac src/Ex2.java
+```
+```bash
 javac src/Ex3.java
+```
+```bash
 javac src/Ex4.java
-
+```
+Substitua pelo Exercício que você quer executar
+java -cp src Ex1   
+java -cp src Ex2  
+java -cp src Ex3  
+java -cp src Ex4  
+```bash
 java -cp src Ex1
+```
