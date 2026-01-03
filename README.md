@@ -28,5 +28,12 @@ Coloque o nome da classe do exercício -> Ex1.java | Ex2.java
 git clone https://github.com/MiguelO1iveira/exercicios-fundamentos-java-dio.git
 cd exercicios-fundamentos-java-dio
 javac src/Ex1.java
-java -cp src Ex1
+javac src/Ex2.java
+javac src/Ex3.java
+javac src/Ex4.java
+
+java -cp src Ex1 -> Para executar cada exercício
+java -cp src Ex2
+java -cp src Ex3
+java -cp src Ex4
 
