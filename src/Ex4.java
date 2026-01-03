@@ -31,7 +31,7 @@ public class Ex4 {
 			// Cálculo para saber quem é mais velho e não retornar negativo
 			if (idade1 > idade2) {
 				dif = idade1 - idade2;
-				message = name1 + " é " + dif + " anos(s) mais velho que " + name2;
+				message = name1 + " é " + dif + " ano(s) mais velho que " + name2;
 			} else if (idade2 > idade1) {
 				dif = idade2 - idade1;
 				message = name2 + " é " + dif + " ano(s) mais velho que " + name1;
