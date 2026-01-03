@@ -23,9 +23,10 @@ fórmula: área=base X altura
 
 ### Passos
 No Terminal:
+Coloque o nome da classe do exercício -> Ex1.java | Ex2.java
 ```bash
 git clone https://github.com/MiguelO1iveira/exercicios-fundamentos-java-dio.git
 cd permissoes-bitwise-java
-javac src/Main.java
-java -cp src Main
+javac src/Ex1.java
+java -cp src Ex1
 
