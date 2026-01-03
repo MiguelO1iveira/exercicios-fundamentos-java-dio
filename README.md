@@ -22,11 +22,11 @@ fórmula: área=base X altura
 - Terminal (CMD, PowerShell, Git Bash ou Linux/macOS)
 
 ### Passos
-No Terminal:
+No Terminal:  
 Coloque o nome da classe do exercício -> Ex1.java | Ex2.java
 ```bash
 git clone https://github.com/MiguelO1iveira/exercicios-fundamentos-java-dio.git
-cd permissoes-bitwise-java
+cd exercicios-fundamentos-java-dio
 javac src/Ex1.java
 java -cp src Ex1
 
