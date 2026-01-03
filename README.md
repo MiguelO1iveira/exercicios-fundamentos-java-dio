@@ -1,5 +1,9 @@
 # 🚀 Exercícios do Curso Fundamentos da Linguagem de Programação Java
 
+## 🎯 Objetivo
+Fixar o conteúdo estudado durante o curso de Fundamentos da Linguagem de Programação Java na plataforma da DIO.
+
+## 📖 Exercícios
 1. Escreva um código que receba o nome e o ano de nascimento de alguém e imprima na tela a seguinte mensagem: "Olá 'Fulano' você tem 'X' anos"  
 
 2. Escreva um código que receba o tamanho do lado de um quadrado, calcule sua área e exiba na tela  
