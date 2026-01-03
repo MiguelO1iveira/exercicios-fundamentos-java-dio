@@ -24,7 +24,7 @@ fórmula: área=base X altura
 ### Passos
 No Terminal:
 ```bash
-git clone https://github.com/MiguelOliveira/exercicios-fundamentos-java-dio.git
+git clone https:https://github.com/MiguelO1iveira/exercicios-fundamentos-java-dio.git
 cd permissoes-bitwise-java
 javac src/Main.java
 java -cp src Main
