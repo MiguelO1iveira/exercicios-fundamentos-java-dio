@@ -8,7 +8,7 @@ public class Ex3 {
 			// Variáveis
 			int base, altura, area;
 			
-			System.out.println("\nSeja bem-vindo!\nExercício 2\n");
+			System.out.println("\nSeja bem-vindo!\nExercício 3\n");
 			// Entrada de dados
 			System.out.println("Informe o tamanho da base: (cm)");
 			System.out.print(">>> ");
